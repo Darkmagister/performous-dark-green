@@ -9,4 +9,4 @@ Then in the game (`Configuration -> Game -> Theme`) select the new theme
 
 # Screenshot
 
-[![Performous-Dark-Green.png](https://i.postimg.cc/288cCh5D/Performous-Dark-Green.png)](https://postimg.cc/WtC6nDrW)
+[![Performous-Dark-Green.png](https://i.postimg.cc/288cCh5D/Performous-Dark-Green.png)](https://postimg.cc/gallery/N0BPm8w)
