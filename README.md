@@ -3,7 +3,7 @@
 # Installation
 Clone the repo in the `themes` folder (if not present create it), use a new folder
 
-Path in Linux: - `~/.local/share/games/performous/theme/`
+Path in Linux: - `~/.local/share/games/performous/themes/`
 
 Then in the game (`Configuration -> Game -> Theme`) select the new theme
 
